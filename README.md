@@ -152,8 +152,3 @@ pip install -U "geoai-py[extra]"
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 👤 Contact
-
-Created by **[Your Name]** — Remote Sensing & GIS Analyst  
-📧 email@domain.com | 🌐 [LinkedIn](https://linkedin.com/in/username)
